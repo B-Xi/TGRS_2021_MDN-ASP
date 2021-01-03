@@ -10,7 +10,7 @@ Fig. 1: The framework of our proposed MDN-ASP for HSI classification. It is comp
 
 Training and Test Process
 --
-Please simply run the 'run_demo.m' to reproduce our MSC-EDKELM results on [IndianPines](http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes#Indian_Pines) dataset. You can obtain the classification accuracies (15 training samples per class) and the corresponding classification maps shown below. We have successfully test it on Ubuntu 16.04 and Windows systems with Matlab R2017b.
+Please firstly run the 'generate_train_val_test_gt.m' to generate the training and test maps. Then, run 'construct_multi_mat.py' to construct the multi-direction samples. Finally, run 'main_MDN_ASP.py' to reproduce the MDN-ASP results on [IndianPines](http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes#Indian_Pines) data set. The training samples distribution and the obtained classification map are shown below. We have successfully test it on Ubuntu 16.04 and Windows systems with Matlab R2017b. Part of the source code are employed from the works of [DR-CNN](https://fdss.bit.edu.cn/yjdw/js/153191.htm) and [SSRN](https://github.com/zilongzhong/SSRN).
 
 <div align=center><p float="center">
 <img src="/Image/falsecolorimage.jpg" width="200"/>
@@ -38,7 +38,8 @@ BibTeX entry:
   year={2021},
   volume={},
   number={},
-  pages={},}
+  pages={},
+  DOI={10.1109/TGRS.2020.3047682},}
 ```
 ```
 @ARTICLE{Xi2020JSTARS,
