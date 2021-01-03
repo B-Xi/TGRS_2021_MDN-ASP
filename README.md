@@ -1,4 +1,4 @@
-Multi-direction Networks with Attentional Spectral Prior for Hyperspectral Image Classification, TGRS, 2021.
+Multi-direction Networks with Attentional Spectral Prior for Hyperspectral Image Classification, TGRS, 2020.
 ==
 [Bobo Xi](https://scholar.google.com/citations?user=O4O-s4AAAAAJ&hl=zh-CN), [Jiaojiao Li](https://scholar.google.com/citations?user=Ccu3-acAAAAJ&hl=zh-CN&oi=sra), [Yunsong Li](https://dblp.uni-trier.de/pid/87/5840.html), [Rui song](https://scholar.google.com/citations?user=_SKooBYAAAAJ&hl=zh-CN), Yuchao Xiao, [Yanzi Shi](https://www.researchgate.net/scientific-contributions/Yanzi-Shi-2149921066) and [Qian Du](https://scholar.google.com/citations?user=0OdKQoQAAAAJ&hl=zh-CN).
 
