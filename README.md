@@ -5,7 +5,7 @@ Multi-direction Networks with Attentional Spectral Prior for Hyperspectral Image
 ***
 Code for paper: Multi-direction Networks with Attentional Spectral Prior for Hyperspectral Image Classification. (The complete project will be soon released after the paper is open access)
 
-<div align=center><img src="/Image/framework.jpg" width="80%" height="80%"></div>
+<div align=center><img src="/Image/frameworks.jpg" width="80%" height="80%"></div>
 Fig. 1: The framework of our proposed MDN-ASP for HSI classification. It is composed of four components: multi-direction samples construction, multi-stream feature extraction, feature aggregation with attentional spectral prior (ASP) and a softmax-based classifier. The same color represents the layers with same operation.
 
 Training and Test Process
