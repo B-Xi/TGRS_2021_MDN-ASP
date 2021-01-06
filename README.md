@@ -31,11 +31,11 @@ Citation Details
 --
 BibTeX entry:
 ```
-@ARTICLE{Xi_TGRS2021_MDNASP,
+@ARTICLE{Xi_TGRS2020_MDNASP,
   author={B. {Xi} and J. {Li} and Y. {Li} and R. {Song} and Y. {Xiao} and Y. {Shi} and Q. {Du}},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={Multi-direction Networks with Attentional Spectral Prior for Hyperspectral Image Classification}, 
-  year={2021},
+  year={2020},
   volume={},
   number={},
   pages={},
