@@ -1,4 +1,4 @@
-Multi-direction Networks with Attentional Spectral Prior for Hyperspectral Image Classification, TGRS, 2020.
+Multi-direction Networks with Attentional Spectral Prior for Hyperspectral Image Classification, TGRS, 2021.
 ==
 [Bobo Xi](https://scholar.google.com/citations?user=O4O-s4AAAAAJ&hl=zh-CN), [Jiaojiao Li](https://scholar.google.com/citations?user=Ccu3-acAAAAJ&hl=zh-CN&oi=sra), [Yunsong Li](https://dblp.uni-trier.de/pid/87/5840.html), [Rui song](https://scholar.google.com/citations?user=_SKooBYAAAAJ&hl=zh-CN), Yuchao Xiao, [Yanzi Shi](https://www.researchgate.net/scientific-contributions/Yanzi-Shi-2149921066) and [Qian Du](https://scholar.google.com/citations?user=0OdKQoQAAAAJ&hl=zh-CN).
 
@@ -24,7 +24,7 @@ References
 --
 If you find this code helpful, please kindly cite:
 
-[1] B. Xi, J. Li, Y. Li, R. Song, Y. Xiao, Y. Shi, Q. Du "Multi-direction Networks with Attentional Spectral Prior for Hyperspectral Image Classification," in IEEE Transactions on Geoscience and Remote Sensing, 2020, doi: [10.1109/TGRS.2020.3047682](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9325080&tag=1)  
+[1] B. Xi, J. Li, Y. Li, R. Song, Y. Xiao, Y. Shi, Q. Du "Multi-direction Networks with Attentional Spectral Prior for Hyperspectral Image Classification," in IEEE Transactions on Geoscience and Remote Sensing, 2021, doi: [10.1109/TGRS.2020.3047682](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9325080&tag=1)  
 [2] B. Xi, J. Li, Y. Li, R. Song, Y. Shi, S. Liu, Q. Du "Deep Prototypical Networks With Hybrid Residual Attention for Hyperspectral Image Classification," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 13, pp. 3683-3700, 2020, doi: [10.1109/JSTARS.2020.3004973](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9126161).  
 
 Citation Details
