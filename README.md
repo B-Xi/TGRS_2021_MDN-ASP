@@ -34,12 +34,12 @@ BibTeX entry:
 @ARTICLE{Xi_TGRS2020_MDNASP,
   author={B. {Xi} and J. {Li} and Y. {Li} and R. {Song} and Y. {Xiao} and Y. {Shi} and Q. {Du}},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={Multi-direction Networks with Attentional Spectral Prior for Hyperspectral Image Classification}, 
-  year={2020},
+  title={Multi-Direction Networks With Attentional Spectral Prior for Hyperspectral Image Classification}, 
+  year={2021},
   volume={},
   number={},
-  pages={},
-  DOI={10.1109/TGRS.2020.3047682},}
+  pages={1-15},
+  doi={10.1109/TGRS.2020.3047682}}
 ```
 ```
 @ARTICLE{Xi2020JSTARS,
